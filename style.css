@@ -22,14 +22,14 @@ body{
 }
 .container{
     margin: auto;
-    width: 70%;
+    width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .box{
-    width: 250px;
-    padding: 30px;
+
+    padding: 50px 30px 40px 30px;
 }
 .box h1{
     font-family: 'Big Shoulders Display';
