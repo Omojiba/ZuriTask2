@@ -19,7 +19,7 @@ a{
 .gridbox{
     display: grid;
     grid-template-columns: 1.5fr 1.2fr 1fr 1fr 1fr;
-    grid-template-rows: 1.5fr 1.5fr 1fr 1.5fr;
+    grid-template-rows: 0.9fr 0.9fr 1fr 1.2fr;
     width: 750px;
     height: 500px;
     gap: 15px;
