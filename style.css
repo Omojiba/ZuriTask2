@@ -27,6 +27,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+a{
+    font-size: 20px;
+}
 .box{
 
     padding: 50px 30px 40px 30px;
